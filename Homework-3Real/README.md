@@ -10,7 +10,7 @@ Using simple javascript alert boxes you will be asked
 2. If you would like to include uppercase letters
 3. If you would like it to include numbers
 4. If you would like it to include special characters
-5. & finally the length of the password, anywhere from 8-128 characters
+5. & finally the length of the password, anywhere from 8-128 characters  
     _(note: if a number lesser than 8 or greater than 128, user will be prompted to try again)_
     
     
