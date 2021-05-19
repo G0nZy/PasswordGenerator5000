@@ -11,7 +11,7 @@ Using simple javascript alert boxes you will be asked
 3. If you would like it to include numbers
 4. If you would like it to include special characters
 5. & finally the length of the password, anywhere from 8-128 characters
-    (note: if a number lesser than 8 or greater than 128, user will be prompted to try again)
+    _(note: if a number lesser than 8 or greater than 128, user will be prompted to try again)_
     
     
    Finally outputting a password that meets the above specified criteria
